@@ -18,8 +18,6 @@ public class MainActivity extends AppCompatActivity implements Dialog_Rating.Sav
 
         initRateMealButton();
 
-
-
     }
 
     @Override

@@ -14,7 +14,6 @@ import androidx.fragment.app.DialogFragment;
 public class Dialog_Rating extends DialogFragment {
 
 
-    float rBarSelected;
 
     public interface SaveRatingBarListener {        //communicates back to mainActivity
         void didFinishRatingBar(float results);
